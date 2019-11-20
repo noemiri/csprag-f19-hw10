@@ -1,0 +1,4 @@
+Host mimi
+  HostName login.engin.umich.edu
+  User noemiri
+  Compression yes
