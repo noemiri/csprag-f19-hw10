@@ -1,2 +1,16 @@
 [user]
+	name = Noemi
 	email = noemiri@umich.edu
+[color]
+	ui = true
+[color "status"]
+	added = yellow
+	changed = cyan
+	untracked = red
+[alias]
+	#show all branches
+	br = branch -av
+	# Unstage changes from the index
+	unstage = reset HEAD --
+	st = status
+
